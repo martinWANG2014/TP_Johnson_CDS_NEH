@@ -1,5 +1,6 @@
 from tkinter import *
 import numpy
+import pyscreenshot as ImageGrab
 
 ####################
 # parameter for graphic.
@@ -46,4 +47,5 @@ def graphic(title, seq, nbj, nbm, c_ij, p_ij):
         jj = seq[j]
         for i in range(nbm):
             design_task(zone_dessin, jj, i, c_ij[i][j + 1] - p_ij[i][jj], c_ij[i][j + 1])
+
     fenetre.mainloop()

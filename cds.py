@@ -1,6 +1,8 @@
 import numpy
 import commonFunction
 import interface
+
+
 #####################################################
 # algorithm for cds
 #####################################################
@@ -32,6 +34,7 @@ def cds(data, nb_machines, nb_jobs):
             best_seq = current_seq
 
     return best_seq, c_max_best
+
 
 # run CDS
 nbm, nbj, p_ij = commonFunction.read_from_file("example2.txt")
