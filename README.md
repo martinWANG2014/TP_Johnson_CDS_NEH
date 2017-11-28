@@ -1,7 +1,7 @@
 Johnson_CDS_NEH
 # Johnson
 ## Data
-[example](https://github.com/martinWANG2014/TP_critic_path/blob/master/example.txt)
+[example](https://github.com/martinWANG2014/TP_Johnson_CDS_NEH/blob/master/example.txt)
 
 Nb Machines: 2
 
@@ -13,10 +13,10 @@ Tasks:
 
 5 4 3 8 2 4
 ## Gantt Diagram
-![johnson](https://github.com/martinWANG2014/TP_critic_path/blob/master/johnson.png)
+![johnson](https://github.com/martinWANG2014/TP_Johnson_CDS_NEH/blob/master/johnson.png)
 # CDS
 ## Data
-[example2](https://github.com/martinWANG2014/TP_critic_path/blob/master/example2.txt)
+[example2](https://github.com/martinWANG2014/TP_Johnson_CDS_NEH/blob/master/example2.txt)
 
 Nb Machines: 3
 
@@ -30,11 +30,11 @@ Tasks:
 
 5 3 9 8 7
 ## Gantt Diagram
-![cds](https://github.com/martinWANG2014/TP_critic_path/blob/master/cds.png)
+![cds](https://github.com/martinWANG2014/TP_Johnson_CDS_NEH/blob/master/cds.png)
 
 # NEH
 ## Data
-[example3](https://github.com/martinWANG2014/TP_critic_path/blob/master/example3.txt)
+[example3](https://github.com/martinWANG2014/TP_Johnson_CDS_NEH/blob/master/example3.txt)
 
 Nb Machines: 3
 
@@ -48,5 +48,5 @@ Tasks:
 
 5 5 2 1
 ## Gantt Diagram
-![neh](https://github.com/martinWANG2014/TP_critic_path/blob/master/neh.png)
+![neh](https://github.com/martinWANG2014/TP_Johnson_CDS_NEH/blob/master/neh.png)
 
